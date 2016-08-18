@@ -24,7 +24,7 @@
   "author": "Trygve Lie <github@trygve-lie.com>",
   "license": "MIT",
   "devDependencies": {
-    "jshint": "2.9.2",
+    "jshint": "2.9.3",
     "mocha": "2.5.3",
     "request": "2.72.0",
     "dom-whitespace": "0.1.2",
